@@ -1,3 +1,2 @@
 CREATE DATABASE IF NOT EXISTS finnova;
-
 USE finnova;
